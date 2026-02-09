@@ -1,0 +1,12 @@
+{
+  "name": "vuln-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-plugin-security": "^1.7.1"
+  }
+}
